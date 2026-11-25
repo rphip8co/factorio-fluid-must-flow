@@ -4,6 +4,15 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/releases/latest">
+    <img src="https://img.shields.io/badge/⬇%20Download-Latest%20Release-yellow?style=for-the-badge" alt="Download"/>
+  </a>
+  <a href="https://github.com/releases">
+    <img src="https://img.shields.io/badge/📦%20All%20Versions-Releases-orange?style=for-the-badge" alt="Releases"/>
+  </a>
+</p>
+
 🕹️ **Factorio — Fluid Must Flow** — Large-bore pipe and fluid throughput enhancement mod for Factorio. Factorio — Fluid Must Flow helps you transport massive quantities of fluids across your Factorio factory with new high-volume pipe infrastructure.
 
 ---
